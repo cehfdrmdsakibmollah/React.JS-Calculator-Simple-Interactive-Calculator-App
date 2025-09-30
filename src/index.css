@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+button{
+  /* background-color: white; */
+  border: 1px solid rgb(201, 196, 196);
+  height: 80px;
+  width: 80px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+button:hover{
+  background-color: rgb(226, 153, 69);
+  cursor: pointer;
+}
+
+button:active{
+  background-color: rgb(14, 226, 60);
+}
