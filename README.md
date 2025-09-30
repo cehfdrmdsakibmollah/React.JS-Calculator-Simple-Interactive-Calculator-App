@@ -23,7 +23,7 @@ Installation Processed:
 
 1. Clone the repository
 
-   git clone https://github.com/your-username/react-calculator.git
+   git clone https://github.com/cehfdrmdsakibmollah/React.JS-Calculator-Simple-Interactive-Calculator-App.git
 
 2. Install dependencies
    
