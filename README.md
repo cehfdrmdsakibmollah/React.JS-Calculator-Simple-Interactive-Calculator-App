@@ -9,29 +9,28 @@ You can try it live here:
 
 Features
 
-Basic arithmetic: +, -, ×, ÷
+  🎯Basic arithmetic: +, -, ×, ÷
 
-Clear button (C) to reset input
-
-Interactive buttons with hover and click effects
-
-Built with React JS functional components and the useState hook
-
-Styled using Tailwind CSS
-
+  🎯Clear button (C) to reset input
+  
+  🎯Interactive buttons with hover and click effects
+  
+  🎯Built with React JS functional components and the useState hook
+  
+  🎯Styled using Tailwind CSS
+  
 Installation Processed:
 
 1. Clone the repository
 
    git clone https://github.com/your-username/react-calculator.git
 
-   cd react-calculator
-
 2. Install dependencies
    
    npm install
 
 3. Start the app
+   
    npm run dev
 
 You can refine this project, add features, or enhance the styling. Pull requests are welcome!
