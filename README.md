@@ -1,16 +1,37 @@
-# React + Vite
+#React JS Calculator - Simple & Interactive Calculator App
+A simple and interactive calculator built with React JS and Tailwind CSS. Supports basic arithmetic operations: addition, subtraction, multiplication, and division. Buttons have interactive hover and click effects for a better user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥Live Preview:
 
-Currently, two official plugins are available:
+You can try it live here:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ https://reactjscalculatormakeeasy.netlify.app/
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Basic arithmetic: +, -, ×, ÷
 
-## Expanding the ESLint configuration
+Clear button (C) to reset input
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive buttons with hover and click effects
+
+Built with React JS functional components and the useState hook
+
+Styled using Tailwind CSS
+
+Installation Processed:
+
+1. Clone the repository
+
+   git clone https://github.com/your-username/react-calculator.git
+
+  c d react-calculator
+
+2. Install dependencies
+   
+   npm install
+
+3. Start the app
+   npm run dev
+
+Feel free to fork this project, add features, or improve styling. Pull requests are welcome!
