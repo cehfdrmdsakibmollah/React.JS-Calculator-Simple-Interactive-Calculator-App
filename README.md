@@ -5,7 +5,7 @@ A simple and interactive calculator built with React JS and Tailwind CSS. Suppor
 
 You can try it live here:
 
- https://reactjscalculatormakeeasy.netlify.app/
+ 🎯 https://reactjscalculatormakeeasy.netlify.app/
 
 Features
 
@@ -25,7 +25,7 @@ Installation Processed:
 
    git clone https://github.com/your-username/react-calculator.git
 
-  c d react-calculator
+   cd react-calculator
 
 2. Install dependencies
    
@@ -34,4 +34,4 @@ Installation Processed:
 3. Start the app
    npm run dev
 
-Feel free to fork this project, add features, or improve styling. Pull requests are welcome!
+You can refine this project, add features, or enhance the styling. Pull requests are welcome!
